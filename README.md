@@ -1,8 +1,8 @@
-### Introducción
+## Introducción
 
 Esto es un repositorio dedicado para la asignatura 'Programacion De Aplicaciones Moviles Nativa'
 
-### Lista de Prácticas
+## Lista de Prácticas
 
 <ul>
   <li><a href='./Práctica%201%20-%20Accesibilidad'>Practica 1 - Accesibilidad Web</a></li>
