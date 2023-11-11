@@ -11,4 +11,5 @@ Esto es un repositorio dedicado para la asignatura 'Programacion De Aplicaciones
   <li><a href='./Práctica%204%20-%20Elección%20de%20una%20Arquitectura'>Practica 4 - Elección de una Arquitectura</a></li>
   <li><a href='./Práctica%205%20-%20CodeLab'>Practica 5 - CODELAB</a></li>
   <li><a href='./Práctica%206%20-%20CodeLab%20DataStore'>Practica 6 - CODELAB DataStore</a></li>
+  <li><a href='./Práctica%207%20-%20CodeLab%20UI'>Practica 7 - CODELAB UI</a></li>
 </ul>
