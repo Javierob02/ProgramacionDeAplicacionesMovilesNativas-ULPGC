@@ -12,4 +12,6 @@ Esto es un repositorio dedicado para la asignatura 'Programacion De Aplicaciones
   <li><a href='./Práctica%205%20-%20CodeLab'>Practica 5 - CODELAB</a></li>
   <li><a href='./Práctica%206%20-%20CodeLab%20DataStore'>Practica 6 - CODELAB DataStore</a></li>
   <li><a href='./Práctica%207%20-%20CodeLab%20UI'>Practica 7 - CODELAB UI</a></li>
+  <li><a href='./S7%20-%20Factory%20Method'>Semana 7 - Factory Method</a></li>
+  <li><a href='./S8%20-%20Recomendaciones%20de%20Arquitectura'>Semana 8 - Recomendaciones de Arquitecturas</a></li>
 </ul>
